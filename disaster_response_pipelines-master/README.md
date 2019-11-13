@@ -2,7 +2,7 @@
 
 [Figure Eight](https://www.figure-eight.com/) has provided data related to messages, categorized into different classifications, that have been received during emergencies/disasters.
 This project try to recognize these categories in order to cater for quicker responses to the emergency messages.
-Using machine learning techniques, (Random Forest Classifier) we shold be able to predict the category.
+Using machine learning techniques, (Random Forest Classifier) we should be able to predict the category.
 
 ### The process was carried out as follows:
 
