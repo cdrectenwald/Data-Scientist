@@ -2,7 +2,8 @@
 ## Udacity Data Science Nanodegree Capstone Project
 
 ## Overview
-One of the most important metrics for subscription based services is member churn. Understanding why members choose to leave your service and taking steps to prevent that exodus, can be the difference between a successful and a failing business model. Using the fictional company “Sparkify”, we will explore the concept of churn and attempt to build a functional model for identifying users at risk for it.
+One of the most important metrics for subscription based services is member churn. Understanding why members choose to leave your service and taking steps to prevent that exodus, can be the difference between a successful and a failing business model. Using the fictional company “Sparkify”, we will explore the concept of churn and attempt to build a functional model for identifying users at risk for it. First I will explore the data to find insights related to a user's subscription age, operating systems and devices, gender, and activeness on the application to name a few features that I think will be critical to prediciting customer churn. From there, I aim to create a pipeline of these features to feed into a supervised learning  boost tree classification algorithm. I am attracted to this algorithm due to its ability to recalculate the weighted inputs, which are useful when dealing with imbalanced data.
+
 
 A Medium article can be found here: https://medium.com/@cdrectenwald/predicting-customer-churn-58faa29bc836
 
