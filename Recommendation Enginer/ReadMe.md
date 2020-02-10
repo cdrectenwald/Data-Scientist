@@ -1,3 +1,6 @@
+https://github.com/mkucz95/recommendation_engine#recommendation-engine-with-ibm-watson
+
+
 # Recommendation Engine with IBM Watson
 This project was concieved in collaboration with Udacity and IBM Watson
 
