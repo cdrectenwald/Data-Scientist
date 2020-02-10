@@ -19,7 +19,7 @@ The recommender system can make recommendations in a number of ways:
 4. SVD - Matrix Factorization Recommendations
     * Utilises matrix operations to predict the ranking (or in this case the boolean interaction variable)
 ## Usage
-See Deployed Web App
+See Deployed Web App (Taken down as of 12/1/2019)
 
 * App Code (Heroku)
 * Collaborative Filtering
