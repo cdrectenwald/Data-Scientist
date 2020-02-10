@@ -11,7 +11,7 @@ The recommender system can make recommendations in a number of ways:
     1. Takes into account the similarity of users and recommends the most popular articles read by similar users
 2. Rank Based Recommendations
      2. Recommends the highest ranked articles starting with the most highly ranked
-3. tent Based Filtering
+3. Content Based Filtering
      3. produces recommendations based on similarity to material the user has interacted with previously. Utilizes Natural Language              Processing (NLP) methodology to analyse and rank articles by similarity.
 4. SVD - Matrix Factorization Recommendations
      4. Utilises matrix operations to predict the ranking (or in this case the boolean interaction variable)
